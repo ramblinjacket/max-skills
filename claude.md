@@ -73,7 +73,8 @@ Add new skill files to `skills.txt` (one filename per line) to make them discove
 1. **Explore:** Examine existing skills to understand patterns
 2. **Plan:** Identify which SDK methods to wrap
 3. **Implement:** Follow existing patterns for consistency
-4. **Register:** Add to `skills.txt`
-5. **Test:** Verify functionality works as expected
+4. **Validate:** Use `package-skill` to ensure skill is properly constructed
+5. **Register:** Add to `skills.txt`
+6. **Test:** Verify functionality works as expected
 
 This guide provides the foundation - refer to existing code in this repository for concrete implementation details and patterns.
